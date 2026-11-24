@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetControl</string>
+    <string name="vpn_channel_name">防火墙运行状态</string>
+    <string name="vpn_channel_desc">黑洞 VPN 兜底模式运行时的低打扰通知</string>
+    <string name="vpn_notification_title">NetControl 黑洞防火墙运行中</string>
+    <string name="accessibility_service_desc">驱动 NetControl 双重广告跳过引擎：支持毫秒级开屏断网、GKD 全量高级选择器自动点击跳过及界面节点快照抓取。</string>
+</resources>

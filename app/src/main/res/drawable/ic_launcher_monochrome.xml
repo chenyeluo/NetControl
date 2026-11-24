@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 适配 One UI 调色板 / Material You 单色主题图标 -->
+    <path
+        android:pathData="M54,26.8 C47.6,26.8 39.9,29.8 32.7,33.2 C30.7,34.1 29.6,35.8 29.6,38.0 L29.6,51.5 C29.6,65.4 38.9,76.4 51.8,81.3 C53.2,81.8 54.8,81.8 56.2,81.3 C69.1,76.4 78.4,65.4 78.4,51.5 L78.4,38.0 C78.4,35.8 77.3,34.1 75.3,33.2 C68.1,29.8 60.4,26.8 54,26.8 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="6.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M42.8,51.0 A16.6,16.6 0 0,1 65.2,51.0"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="5.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M47.6,56.5 A9.4,9.4 0 0,1 60.4,56.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="5.2"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M54,60.1 A3.4,3.4 0 1,0 54,66.9 A3.4,3.4 0 1,0 54,60.1 Z" />
+</vector>

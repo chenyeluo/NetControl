@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 盾牌内部极轻柔流体彩色玻璃氛围填充（营造 2025 谷歌图标柔和光泽） -->
+    <path android:pathData="M54,27 C47.5,27 39.8,30.1 32.8,33.4 C30.9,34.3 29.8,36 29.8,38.1 L29.8,51.5 C29.8,65.2 38.9,76.1 51.8,81 C53.2,81.5 54.8,81.5 56.2,81 C69.1,76.1 78.2,65.2 78.2,51.5 L78.2,38.1 C78.2,36 77.1,34.3 75.2,33.4 C68.2,30.1 60.5,27 54,27 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="28"
+                android:startY="28"
+                android:endX="80"
+                android:endY="80">
+                <item android:offset="0.0" android:color="#12EA4335" />
+                <item android:offset="0.35" android:color="#10FBBC04" />
+                <item android:offset="0.68" android:color="#1234A853" />
+                <item android:offset="1.0" android:color="#164285F4" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 谷歌 2025 流体四色渐变圆润盾环：第 1 段（左上：谷歌红 -> 暖橙 -> 谷歌黄） -->
+    <path
+        android:pathData="M54,26.8 C47.6,26.8 39.9,29.8 32.7,33.2 C30.7,34.1 29.6,35.8 29.6,38.0 L29.6,52.2"
+        android:strokeWidth="6.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="54"
+                android:startY="26"
+                android:endX="29"
+                android:endY="54">
+                <item android:offset="0.0" android:color="#FFEA4335" />
+                <item android:offset="0.52" android:color="#FFF37721" />
+                <item android:offset="1.0" android:color="#FFFBBC04" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 谷歌 2025 流体四色渐变圆润盾环：第 2 段（左下：谷歌黄 -> 鲜嫩绿 -> 谷歌绿） -->
+    <path
+        android:pathData="M29.6,49.8 L29.6,51.5 C29.6,65.4 38.9,76.4 51.8,81.3 C52.8,81.7 53.7,81.8 54.5,81.8"
+        android:strokeWidth="6.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="29"
+                android:startY="49"
+                android:endX="54"
+                android:endY="82">
+                <item android:offset="0.0" android:color="#FFFBBC04" />
+                <item android:offset="0.48" android:color="#FF78C24E" />
+                <item android:offset="1.0" android:color="#FF34A853" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 谷歌 2025 流体四色渐变圆润盾环：第 3 段（右下：谷歌绿 -> 青蓝 -> 谷歌蓝） -->
+    <path
+        android:pathData="M53.5,81.8 C54.4,81.8 55.3,81.6 56.2,81.3 C69.1,76.4 78.4,65.4 78.4,51.5 L78.4,48.0"
+        android:strokeWidth="6.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="54"
+                android:startY="82"
+                android:endX="79"
+                android:endY="47">
+                <item android:offset="0.0" android:color="#FF34A853" />
+                <item android:offset="0.46" android:color="#FF1CA3C4" />
+                <item android:offset="1.0" android:color="#FF4285F4" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 谷歌 2025 流体四色渐变圆润盾环：第 4 段（右上：谷歌蓝 -> 紫罗兰过渡 -> 谷歌红） -->
+    <path
+        android:pathData="M78.4,50.4 L78.4,38.0 C78.4,35.8 77.3,34.1 75.3,33.2 C68.1,29.8 60.4,26.8 54,26.8"
+        android:strokeWidth="6.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="79"
+                android:startY="51"
+                android:endX="52"
+                android:endY="26">
+                <item android:offset="0.0" android:color="#FF4285F4" />
+                <item android:offset="0.44" android:color="#FF4285F4" />
+                <item android:offset="0.78" android:color="#FF8E63F5" />
+                <item android:offset="1.0" android:color="#FFEA4335" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 中心简约网络信号波：外弧（谷歌蓝 -> 青绿流体渐变） -->
+    <path
+        android:pathData="M42.8,51.0 A16.6,16.6 0 0,1 65.2,51.0"
+        android:strokeWidth="5.2"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="42"
+                android:startY="46"
+                android:endX="66"
+                android:endY="52">
+                <item android:offset="0.0" android:color="#FF4285F4" />
+                <item android:offset="0.52" android:color="#FF24A0E8" />
+                <item android:offset="1.0" android:color="#FF34A853" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 中心简约网络信号波：内弧（谷歌蓝 -> 亮青） -->
+    <path
+        android:pathData="M47.6,56.5 A9.4,9.4 0 0,1 60.4,56.5"
+        android:strokeWidth="5.2"
+        android:strokeLineCap="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="47"
+                android:startY="54"
+                android:endX="61"
+                android:endY="57">
+                <item android:offset="0.0" android:color="#FF4285F4" />
+                <item android:offset="1.0" android:color="#FF1EA7B8" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 中心网络锚点圆珠 -->
+    <path android:pathData="M54,60.1 A3.4,3.4 0 1,0 54,66.9 A3.4,3.4 0 1,0 54,60.1 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="50.6"
+                android:startY="60.1"
+                android:endX="57.4"
+                android:endY="66.9">
+                <item android:offset="0.0" android:color="#FF4285F4" />
+                <item android:offset="1.0" android:color="#FF1A73E8" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
